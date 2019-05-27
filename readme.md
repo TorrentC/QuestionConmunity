@@ -1,3 +1,4 @@
-## this is a spring boot projject
+## this is a spring boot project
 
-#### 现在已经使用bootstrap写了一个简单的登录页面
+#### 完成使用github接口获取用户信息
+#### 将配置信息从代码中提取出来
